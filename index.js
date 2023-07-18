@@ -1,8 +1,8 @@
-let userName=prompt("What the  name ,You have?",'Jaani');
+let userName=prompt("What the  name ,You have?",'Guest');
 console.log(userName,typeof userName);
 
 if( userName === null){
-    userName='Guest';
+    userName='Away';
 }
 document.getElementById('user-name').textContent=userName;
 
