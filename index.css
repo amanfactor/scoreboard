@@ -8,7 +8,7 @@ body{
     justify-content: space-evenly;
     background-color: #1B244A;
     height: 100vh;
-    padding: 10%;
+     padding: 10%; 
     column-gap: 0.5rem;
 }
 .home ,.guest{
@@ -40,7 +40,7 @@ height: 120px;
 background-color: #080001;
 color: #F94F6D;
 text-align: center;
-font-family: Cursed Timer ULiL;
+font-family: 'Cursed Timer ULiL', sans-serif;
 font-size: 90px;
 font-style: normal;
 font-weight: 400;
